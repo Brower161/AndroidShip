@@ -1,0 +1,4 @@
+repository "AndroidShip@Aguila_Corp@cloud"
+  path "/"
+    br "/main"
+    co "/main"
